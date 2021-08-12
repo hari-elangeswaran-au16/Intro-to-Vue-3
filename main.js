@@ -2,7 +2,8 @@ const app = Vue.createApp({
     data() {
         return {
             cart: 0,
-            premium: false
+            premium: false,
+            details: "Amazing Fur"
         }
     },
     methods: {},
